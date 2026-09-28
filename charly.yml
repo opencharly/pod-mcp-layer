@@ -1,7 +1,5 @@
-version: 2026.232.0520
 mcp-layer:
     candy:
-        version: 2026.144.1443
         description: |
             harness-mcp-fixture — minimal Streamable-HTTP MCP server stub for harness phase 4
             Implements the MCP Streamable HTTP protocol surface that
